@@ -13,8 +13,7 @@ Welcome to my DSA learning repository! This is a curated collection of Data Stru
 ##  Roadmap
 
 ### 1. 📚 Data Structures
-- [ ] Arrays & Strings
-- [ ] Linked Lists (Singly, Doubly)
+- [x] Linked Lists (Singly, Doubly)
 - [ ] Stacks & Queues (Using Arrays/Linked Lists)
 - [ ] Hash Tables / Hash Maps
 - [ ] Trees
